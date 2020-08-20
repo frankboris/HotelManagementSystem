@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/HotelManagementSystem/static/css/main.7247d5a9.chunk.css",
-    "main.js": "/HotelManagementSystem/static/js/main.377d048a.chunk.js",
-    "main.js.map": "/HotelManagementSystem/static/js/main.377d048a.chunk.js.map",
+    "main.js": "/HotelManagementSystem/static/js/main.0fb7c700.chunk.js",
+    "main.js.map": "/HotelManagementSystem/static/js/main.0fb7c700.chunk.js.map",
     "runtime-main.js": "/HotelManagementSystem/static/js/runtime-main.e4ab8d20.js",
     "runtime-main.js.map": "/HotelManagementSystem/static/js/runtime-main.e4ab8d20.js.map",
-    "static/js/2.19a5c861.chunk.js": "/HotelManagementSystem/static/js/2.19a5c861.chunk.js",
-    "static/js/2.19a5c861.chunk.js.map": "/HotelManagementSystem/static/js/2.19a5c861.chunk.js.map",
+    "static/js/2.4292099a.chunk.js": "/HotelManagementSystem/static/js/2.4292099a.chunk.js",
+    "static/js/2.4292099a.chunk.js.map": "/HotelManagementSystem/static/js/2.4292099a.chunk.js.map",
     "index.html": "/HotelManagementSystem/index.html",
-    "precache-manifest.575591ec59616546c16c43d2ab3f889c.js": "/HotelManagementSystem/precache-manifest.575591ec59616546c16c43d2ab3f889c.js",
+    "precache-manifest.1e84c380e7e740b578c5e6f5a45c478f.js": "/HotelManagementSystem/precache-manifest.1e84c380e7e740b578c5e6f5a45c478f.js",
     "service-worker.js": "/HotelManagementSystem/service-worker.js",
     "static/css/main.7247d5a9.chunk.css.map": "/HotelManagementSystem/static/css/main.7247d5a9.chunk.css.map",
-    "static/js/2.19a5c861.chunk.js.LICENSE.txt": "/HotelManagementSystem/static/js/2.19a5c861.chunk.js.LICENSE.txt",
+    "static/js/2.4292099a.chunk.js.LICENSE.txt": "/HotelManagementSystem/static/js/2.4292099a.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/HotelManagementSystem/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/bedroom.png": "/HotelManagementSystem/static/media/bedroom.dcca0db9.png",
     "static/media/logo.png": "/HotelManagementSystem/static/media/logo.eb54846e.png",
-    "static/media/logo_mb3.png": "/HotelManagementSystem/static/media/logo_mb3.76e8acdb.png"
+    "static/media/logo_mb3.png": "/HotelManagementSystem/static/media/logo_mb3.76e8acdb.png",
+    "static/media/tablette.png": "/HotelManagementSystem/static/media/tablette.d91d4d74.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e4ab8d20.js",
-    "static/js/2.19a5c861.chunk.js",
+    "static/js/2.4292099a.chunk.js",
     "static/css/main.7247d5a9.chunk.css",
-    "static/js/main.377d048a.chunk.js"
+    "static/js/main.0fb7c700.chunk.js"
   ]
 }
